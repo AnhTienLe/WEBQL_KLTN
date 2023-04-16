@@ -58,7 +58,7 @@ ob_start();
 		
 		<ul class="nav menu">			
 			<li class="parent ">
-				<a href="quantri.php">
+				<a href="gioithieu.php">
 					<span data-toggle="collapse" href="#sub-item-1"><svg class="glyph stroked chevron-down">
 					<use xlink:href="#stroked-chevron-down"></use></svg></span> 
 					Admin
