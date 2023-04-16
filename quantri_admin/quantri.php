@@ -159,11 +159,11 @@ ob_start();
                         case 'Xoa_TBM':include_once'./chucnang/QL_TBM/Xoa_TBM.php';
                             break;
 
-					 default:include_once'./quantri.php';
+					 default:include_once'./gioithieu.php';
                     }
                 }
                 else{
-                    include_once'./quantri.php';
+                    include_once'./gioithieu.php';
                 }
             ?>
         </div>	<!--/.main-->
